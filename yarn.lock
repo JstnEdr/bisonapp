@@ -3979,6 +3979,20 @@ cpy@^7.2.0:
     globby "^9.2.0"
     nested-error-stacks "^2.1.0"
 
+create-bison-app@*:
+  version "1.9.12"
+  resolved "https://registry.yarnpkg.com/create-bison-app/-/create-bison-app-1.9.12.tgz#66feda23370d929c1d90670a692226354b41f8b6"
+  integrity sha512-gCtuDipZqpnNY+IyxQHn4Uw516bUfImrh4a+Cx7iNO4oQ6qME3w/vN2NAVXP/HCWNc0cR7/nevl+BRdAikeKpg==
+  dependencies:
+    cpy "^7.2.0"
+    ejs "^3.1.5"
+    execa "^4.0.3"
+    inquirer "^7.3.3"
+    listr "^0.14.3"
+    nodegit "^0.27.0"
+    slugify "^1.3.4"
+    yargs "^15.4.1"
+
 cross-fetch@3.0.6, cross-fetch@^3.0.5, cross-fetch@^3.0.6:
   version "3.0.6"
   resolved "https://registry.yarnpkg.com/cross-fetch/-/cross-fetch-3.0.6.tgz#3a4040bc8941e653e0e9cf17f29ebcd177d3365c"
